@@ -1,1 +1,2 @@
 WordPress | http://192.168.216.1/wordpress-6.9.4/wordpress/wp-login.php | admin:wordpress123
+WordPress | http://192.168.216.1/wordpress-6.9.4/wordpress/wp-login.php | admin:wordpress123
